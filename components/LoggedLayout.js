@@ -38,8 +38,8 @@ export default function LoggedLayout() {
       <footer
         className={`footer ${darkMode ? "text-white" : ""} text-center py-3`}
       >
-        <p>Created by Jackson Paredes Ferranti (@bkfan1)</p>
-        <a href="https://www.github.com/bkfan1">
+        <p>Created by Jackson Paredes Ferranti (@prodev880110)</p>
+        <a href="https://www.github.com/prodev880110">
           <i className="bi bi-github" />
         </a>
       </footer>
